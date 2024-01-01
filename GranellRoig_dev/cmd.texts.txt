@@ -1,0 +1,4 @@
+2324_SAVU_ALEXANDRA_10227633
+
+python3 database_backup.py 2324_SAVU_ALEXANDRA_10227633 -sr 10227633 -ps root
+
